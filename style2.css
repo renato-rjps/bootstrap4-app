@@ -1,0 +1,35 @@
+html,
+body {
+    height: 100%;  
+}
+
+#main-page {
+    background: #222 url(img/stars.jpg) center center no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    /*
+    display: flex;
+    align-items: center;*/
+}
+
+
+#about-me {
+    background: #222 url(img/girlincar.jpg) center center no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+#about-me-content {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* 
+    footer-main
+*/
+
+#footer-main {
+    background-color: #222;
+    color: #fff;
+    font-size: 0.8rem;
+}

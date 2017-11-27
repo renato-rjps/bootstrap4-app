@@ -1,0 +1,29 @@
+{
+  "name": "bootstrap4-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "font-awesome": "^4.7.0",
+    "node-sass": "^4.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass -o css styles -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renato-rjps/bootstrap4-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renato-rjps/bootstrap4-app/issues"
+  },
+  "homepage": "https://github.com/renato-rjps/bootstrap4-app#readme"
+}
